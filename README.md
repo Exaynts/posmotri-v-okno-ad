@@ -1,1 +1,1 @@
-https://github.com/SpiritWeaving/posmotri-v-okno-ad
+https://github.com/Exaynts/posmotri-v-okno-ad/edit/main/README.md
